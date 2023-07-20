@@ -18,20 +18,20 @@ I am always open for collaboration and a good chat about development. Feel free 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" height="30" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="30" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="30" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original.svg" alt="Axios" height="30" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="30" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakraui/chakraui-original.svg" alt="Chakra UI" height="30" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" height="30" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" height="30" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" height="30" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsonwebtoken/jsonwebtoken-plain.svg" alt="JWT" height="30" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bcrypt/bcrypt-original.svg" alt="Bcrypt" height="30" width="30"/>
+- Next.js
+- React.js
+- JavaScript
+- TypeScript
+- Redux
+- Axios
+- Tailwind CSS
+- Chakra UI
+- Express.js
+- Sequelize
+- PostgreSQL
+- Firebase
+- JWT
+- Bcrypt
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sheinken88&theme=transparent)](https://git.io/streak-stats)
