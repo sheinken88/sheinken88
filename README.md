@@ -17,6 +17,7 @@ I am always open for collaboration and a good chat about development. Feel free 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
