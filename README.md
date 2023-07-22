@@ -18,20 +18,8 @@ I am always open for collaboration and a good chat about development. Feel free 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-- Next.js
-- React.js
-- JavaScript
-- TypeScript
-- Redux
-- Axios
-- Tailwind CSS
-- Chakra UI
-- Express.js
-- Sequelize
-- PostgreSQL
-- Firebase
-- JWT
-- Bcrypt
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sheinken88&theme=transparent)](https://git.io/streak-stats)
