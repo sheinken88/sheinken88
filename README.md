@@ -39,4 +39,4 @@ I am always open for collaboration and a good chat about development. Feel free 
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sheinken88&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&hide_current_streak=true)](https://git.io/streak-stats)
