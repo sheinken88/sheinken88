@@ -36,5 +36,4 @@ I am always open for collaboration and a good chat about development. Feel free 
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON-Web-Tokens&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/-Bcrypt-68a063?style=flat-square&logo=bcrypt&logoColor=white)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&exclude_days=Sun%2CSat&type=png&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&exclude_days=Sun%2CSat&type=png)](https://git.io/streak-stats)
