@@ -37,4 +37,4 @@ I am always open for collaboration and a good chat about development. Feel free 
 ![Bcrypt](https://img.shields.io/badge/-Bcrypt-68a063?style=flat-square&logo=bcrypt&logoColor=white)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sheinken88&theme=dark&exclude_days=Sun%2CSat&type=png&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sheinken88&theme=vue-dark&exclude_days=Sun%2CSat&type=png&hide_current_streak=true)](https://git.io/streak-stats)
