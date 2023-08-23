@@ -3,9 +3,7 @@
 
 Ever since I delved into the world of coding through an intensive 800-hour full-time bootcamp, my perspective on the digital realm has transformed. Learning and implementing agile methodologies, pair programming, grasping the nitty-gritty of web development, project deployment, backend, and frontend have been an invigorating experience.
 
-Currently, I'm honing my skills by working on **HIRE - a React Native app designed to aid programmers in acing coding interviews.** It's an ambitious project, but the process is as rewarding as the outcome.
-
-Apart from this, my quest for learning never ends. At present, I'm diving deeper into **React Native, Firebase, and Typescript.**
+Currently working with a team on a three-month project named Fast Delivery, an intricate logistics management platform crafted to demonstrate the intricacies of real-time operations in the last-mile delivery domain. The system offers dual interfaces—one for delivery agents, enabling them to register, log in, and manage daily package assignments, and another dedicated to administrative control, granting organizational oversight. The purpose of Fast Delivery is to simulate the management and tracking of packages, showcasing the possibilities of optimizing delivery workflows. Our development leverages a diverse technology stack, including Next.js, Typescript, Redux, Express, MongoDB, and AWS. To ensure application functionality and performance, Cypress serves as our testing tool, while Docker facilitates seamless containerization. Our commitment to quality is exhibited through our use of gitflow, SemVer, and CI/CD via GitHub Actions. Organized under the Agile framework and divided into 12 well-structured sprints, our project follows the MVC architecture. Regular daily meetings and task management via Trello aid in maintaining consistent progress, as we explore various aspects of developing a comprehensive logistics platform, putting theory into practice
 
 As an ardent developer, I am not just looking for opportunities to code. I am in pursuit of challenges that allow me to leverage my skills to make a real-world impact. 
 
