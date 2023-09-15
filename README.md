@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋 I'm Sebastián Heinken</h1>
-<h3 align="center">A passionate frontend developer from Argentina, fueling the digital transformation</h3>
+<h3 align="center">A passionate Full Stack developer from Argentina, fueling the digital transformation</h3>
 
 Ever since I delved into the world of coding through an intensive 800-hour full-time bootcamp, my perspective on the digital realm has transformed. Learning and implementing agile methodologies, pair programming, grasping the nitty-gritty of web development, project deployment, backend, and frontend have been an invigorating experience.
 
