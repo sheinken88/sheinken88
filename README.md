@@ -9,7 +9,7 @@ I enjoy working with modern stacks like Next.js, TypeScript, Express, MongoDB, a
 
 I’m not just in it to code—I’m in it to solve problems that have real-world impact. Always curious, always learning, and always open to collaboration.
 
-I am always open for collaboration and a good chat about development. Feel free to reach me at **heinken.sebastian@gmail.com**
+Feel free to reach me at **heinken.sebastian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
